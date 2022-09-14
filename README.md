@@ -28,7 +28,7 @@ In order to create visualizations that can accurately display trip durations, th
 In order to sway the potential angel investor, a number of visualizations were created to illistrate the success of New York City's bike share program. In the order they are presented in the Tableau story: 
 
 1. User Type
-![User Type](https://github.com/josephrodini/bikesharing/main/Images/CustomerUser.PNG?raw=true)
+![User Type](https://github.com/josephrodini/bikesharing/blob/main/Images/CustomerUser.PNG?raw=true)
 
 There is a title, and there are multiple sections. (2 pt)
 Each section has a heading and subheading. (2 pt)
