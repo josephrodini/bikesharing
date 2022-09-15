@@ -76,6 +76,10 @@ This bar chart shows the bike trips per hour during August 2019, one of the busi
 
 Finally, this heatmap shows a breakdown of ridership along the crossing of gender and user type. The greatest density of trips are being taken by male subscribers. Female subscribers outnumber female customers, while unspecified gender customers outnumber unspecified gender subscribers.
 
+### Deliverable Three
+
+[Link to Tableau Story containing the above graphs](https://public.tableau.com/views/Module_14_Challenge_16631826518270/Module_14_Challenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+
 ## Summary
 
 Overall the visualizations paint a promising picture for the city of Des Moines. The Citibike program in New York City seems to be thriving, and with some modifications to the program, a version could easily prove successful in the Iowa city. There is high subscribership among both genders, and heavy usage during multiple parts of the day.
